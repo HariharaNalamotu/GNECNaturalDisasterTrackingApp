@@ -8,6 +8,7 @@ EONET and NASA have amazing data, but no interface to view it comprehendably. I 
 - Folium
 - PyQt5
 - QtWebEngine
+
 Without these dependencies, the code will not run.
 
 # Warning
